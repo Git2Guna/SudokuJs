@@ -32,8 +32,4 @@ Users can play the puzzle with input validation, get win/lose feedback, and rese
   - If filled incorrectly → 😞 "You lose"  
 - Reset button clears the board for a new game.
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
